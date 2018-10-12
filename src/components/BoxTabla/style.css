@@ -1,0 +1,23 @@
+
+.table{
+    margin: 10px;
+    width: 100%
+}
+.item-name{
+    font-weight: 500;
+    width: 200px;
+}
+
+.img{
+    width: 18px;
+    margin: 5px
+}
+
+.item-change{
+    width: 200px
+}
+
+.pag{
+    text-align: center;
+    margin: 25px;
+}
